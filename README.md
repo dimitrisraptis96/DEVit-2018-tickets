@@ -4,6 +4,6 @@ OK!Thess partners with DEVit and offers tickets to its hosted teams. State your 
 
 | Talks             | Workshops           | Your full name | Your Startup |
 | :----:            |         :----:      |   :-----:      | ------:      |
-| :heavy_check_mark:| Workshop(s) name    |                |              |
+| :heavy_check_mark:| Hyperledger Framework – Bringing blockchain technologies closer to tomorrow's businesses & Delivering Serverless Experience    | George Hatzipavlou               | Legalpal             |
 |                   |                     |                |              |
 |                   |                     |                |              |
