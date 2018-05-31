@@ -5,5 +5,5 @@ OK!Thess partners with DEVit and offers tickets to its hosted teams. State your 
 | Talks             | Workshops           | Your full name | Your Startup |
 | :----:            |         :----:      |   :-----:      | ------:      |
 | :heavy_check_mark:| Workshop(s) name    |                |              |
-|                   |                     |                |              |
+| :heavy_check_mark:|Modern easy IoT with JS, Docker & Resin.io  &&   The World is our Interface|  Konstantinos Alexoglou |Loceye|
 |                   |                     |                |              |
